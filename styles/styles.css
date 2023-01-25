@@ -11,6 +11,11 @@ body{
     color: #e8eef6;
     
 }
+.yo{
+    width: 200px;
+    place-items: center;
+
+}
 .nav-color{
     background-color: #5b6777;
     }
